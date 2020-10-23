@@ -1,3 +1,3 @@
-def first_arr(arr,str)
-  arr.push(str)
+def first_arr(colors_in_the_rainbow, next_color)
+  colors_in_the_rainbow.push(next_color)
 end
